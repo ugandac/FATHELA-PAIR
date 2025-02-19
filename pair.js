@@ -58,11 +58,11 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃SUCCESSFULLY
+┃𝚳𝚪 𝚮𝚵𝚰𝐒𝚳𝚵 MD SUCCESSFULLY
 ┃CONNECTED ✅🔥
- WhattsApp Channel = https://whatsapp.com/channel/0029VaNPPwR30LKQk437x51Q
-🔸Please Follow My Support Channel🔸
-©*🔹𝕬𝖗𝖑𝖔𝖉𝖗𝖆𝖌𝖔𝖓🔹*
+ WhattsApp = +43 678 45480109
+🔸Please Fork and star ⭐🔸
+©*🔹𝚳𝚪 𝚮𝚵𝚰𝐒𝚳𝚵🔹*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
