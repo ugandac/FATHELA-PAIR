@@ -58,11 +58,11 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝚳𝚪 𝚮𝚵𝚰𝐒𝚳𝚵 MD SUCCESSFULLY
-┃CONNECTED ✅🔥
- WhattsApp = +43 678 45480109
+┃BENSON TECHNOLOGY SUCCESSFULLY
+┃CONNECTED 💎 
+ WhattsApp = +255 766 793 224
 🔸Please Fork and star ⭐🔸
-©*🔹𝚳𝚪 𝚮𝚵𝚰𝐒𝚳𝚵🔹*
+©*🔹BENSON TECHNOLOGY🔹*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
