@@ -58,11 +58,11 @@ router.get('/', async (req, res) => {
 
                let GIFTED_MD_TEXT = `
 ┏━━━━━━━━━━━━━━
-┃𝐅𝐀𝐓𝐇𝐄𝐋𝐀 𝐓
+┃BENSON-AI
 ┃𝐂𝐎𝐍𝐍𝐄𝐂𝐓𝐄𝐃 💙
- 𝙵𝙾𝚁 𝙳𝙴𝙿𝙻𝙾𝚈𝙼𝙴𝙽𝚃 𝚆𝙷𝙰𝚃𝚂𝙰𝙿𝙿 = +254793939016
+ DEV BENSON +255 766 793 224
 🔸𝑁𝑜𝑤 𝑑𝑒𝑝𝑙𝑜𝑦 𝑦𝑜𝑢𝑟 𝑏𝑜𝑡 𝑎𝑛𝑑 𝐸𝑛𝑗𝑜𝑦 ⭐🔸
-©*🔹𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑑 𝑏𝑦 𝐹𝐴𝑇𝐻𝐸𝐿𝐴🔹*
+©*🔹𝐷𝑒𝑣𝑒𝑙𝑜𝑝𝑒𝑑 𝑏𝑦 BENSON-TECH🔹*
 
 _Don't Forget To Give Star To My Repo_`
  await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
